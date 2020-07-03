@@ -9,6 +9,16 @@
       "comparison": "included",
       "timeout": 10,
       "points": null
+    },
+    {
+      "name": "kadai13-1 の実行結果",
+      "setup": "",
+      "run": "./kadai13-1",
+      "input": "",
+      "output": "1.0",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
     }
   ]
 }

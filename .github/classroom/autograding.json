@@ -1,0 +1,14 @@
+{
+  "tests": [
+    {
+      "name": "kadai13-1.c のコンパイル",
+      "setup": "",
+      "run": "make all",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
